@@ -1,5 +1,5 @@
 puts "Hello"
 
 def my_method
-  puts 'something'
+  puts 'nothing'
 end
